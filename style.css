@@ -12,7 +12,6 @@ header {
 	
 }
 
-
 .main-nav
 {
 	float: right;
@@ -33,7 +32,6 @@ header {
 	padding: 5px 20px;
 	font-family: "Roboto", sans-serif;
 	font-size: 15px
-	
 }
 
 .main-nav li.active a
@@ -48,10 +46,26 @@ header {
 
 .logo img
 {
-	width: 300px;
+	width: 450px;
 	height: auto;
 	float: left;
 }
+
+body
+{
+	font-family: monospace;
+}
+
+.row
+{
+	max-width: 1200px
+	margin: auto;
+	
+}
+
+
+
+
 
 
 
