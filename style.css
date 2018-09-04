@@ -24,6 +24,10 @@ header {
 	display: inline-block;
 }
 
+.main-nav li a hover
+{
+	border: 1px solid white;
+}
 
 .main-nav li a
 {
@@ -35,12 +39,6 @@ header {
 }
 
 .main-nav li.active a
-{
-	border: 1px solid white;
-}
-
-
-.main-nav li a:hover
 {
 	border: 1px solid white;
 }
@@ -70,7 +68,6 @@ body
 	width: 1200px;
 	margin-left: 0;
 	margin-top: 0;
-	
 }
 
 h1
